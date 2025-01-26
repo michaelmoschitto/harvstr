@@ -13,6 +13,7 @@ import {
   Image,
   Laptop,
   LayoutDashboardIcon,
+  LineChart,
   Loader2,
   LogIn,
   LucideIcon,
@@ -64,6 +65,7 @@ export const Icons = {
   sun: SunMedium,
   moon: Moon,
   laptop: Laptop,
+  trading: LineChart,
   gitHub: ({ ...props }: LucideProps) => (
     <svg
       aria-hidden='true'
